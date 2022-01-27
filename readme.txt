@@ -1,2 +1,2 @@
-this is a smaple file
+this is a sample file
 created for jenkins demo
