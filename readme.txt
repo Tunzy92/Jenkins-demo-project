@@ -1,1 +1,1 @@
-npm --version
+this is a freestyle demo job
